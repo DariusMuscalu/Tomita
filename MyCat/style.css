@@ -1,0 +1,119 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 22px;
+    font-family: monospace;
+    background-color: #8d8741;
+}
+
+.content {
+    color: black;
+    padding: 351px 20px;
+    border: 3px solid #282828;
+    border-radius: 50%;
+    background-image: url("./images/cat-300572_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.content h1 {
+    text-align: center;
+    padding: 50px 20px;
+margin: 0px 0px;
+    font-size: 25px;
+    
+}
+
+.navbar {
+    position: relative;
+   margin: 0px;
+   padding: 0px;
+    text-align: right;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.content2  {
+   
+   margin-left: 0px;
+   margin-top: 50px;
+   width: auto;
+   height: 900px;
+   border: 5px solid #282828;
+   border-radius: 20px;
+   padding: 30px 0px;
+   background-image: url(./images/pexels-mermek-am-1573324.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   font-size: 10px;
+ resize: both;
+   
+   
+   cursor: pointer;
+}
+
+.content2 h1 {
+    text-align: center;
+    padding: 0px 30px;
+margin: 20px 20px;
+    font-size: 25px;
+ 
+}
+
+.text {
+ background-color: #2e1114;
+ border: 3px solid #282828;
+
+}
+
+.text img {
+    margin-left: 100px;
+    border: 5px solid #282828;
+    border-radius: 10%;
+   
+}
+.text h1 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 25px;
+background-color: #8d8741;
+padding: 40px 50px;
+margin: 20px 20px;
+border-radius: 50%;
+
+}
+
+.text h1:hover{
+    color:#fff;
+    background-color: #c5c6c7;
+}
+
+.footer li {
+    list-style: none;
+    text-align: center;
+    border: #282828 solid 5px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+.footer li:hover{
+    background-color: #c59201;
+}
+
+.footer li a{
+    text-decoration: none;
+    color:#fff
+}
+.footer li a:hover{
+    color: red;
+}
+
+.footer p {
+    text-align: center;
+}
+
